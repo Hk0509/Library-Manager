@@ -242,7 +242,7 @@ export const BookBody = styled.div`
 
 export const BookImage = styled.img`
   width: 200px;
-  height: 200px;
+  height: 250px;
   object-fit: cover;
   padding: 20px;
 `;
